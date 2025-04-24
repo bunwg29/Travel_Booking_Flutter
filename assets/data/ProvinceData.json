@@ -1,0 +1,118 @@
+{
+  "province": [{ "idProvince": "48", "name": "Thành phố Đà Nẵng" }],
+  "district": [
+    { "idProvince": "48", "idDistrict": "490", "name": "Quận Liên Chiểu" },
+    { "idProvince": "48", "idDistrict": "491", "name": "Quận Thanh Khê" },
+    { "idProvince": "48", "idDistrict": "492", "name": "Quận Hải Châu" },
+    { "idProvince": "48", "idDistrict": "493", "name": "Quận Sơn Trà" },
+    { "idProvince": "48", "idDistrict": "494", "name": "Quận Ngũ Hành Sơn" },
+    { "idProvince": "48", "idDistrict": "495", "name": "Quận Cẩm Lệ" },
+    { "idProvince": "48", "idDistrict": "497", "name": "Huyện Hòa Vang" }
+  ],
+  "commune": [
+    {
+      "idDistrict": "490",
+      "idCommune": "20194",
+      "name": "Phường Hòa Hiệp Bắc"
+    },
+    {
+      "idDistrict": "490",
+      "idCommune": "20195",
+      "name": "Phường Hòa Hiệp Nam"
+    },
+    {
+      "idDistrict": "490",
+      "idCommune": "20197",
+      "name": "Phường Hòa Khánh Bắc"
+    },
+    {
+      "idDistrict": "490",
+      "idCommune": "20198",
+      "name": "Phường Hòa Khánh Nam"
+    },
+    { "idDistrict": "490", "idCommune": "20200", "name": "Phường Hòa Minh" },
+    { "idDistrict": "491", "idCommune": "20203", "name": "Phường Tam Thuận" },
+    {
+      "idDistrict": "491",
+      "idCommune": "20206",
+      "name": "Phường Thanh Khê Tây"
+    },
+    {
+      "idDistrict": "491",
+      "idCommune": "20207",
+      "name": "Phường Thanh Khê Đông"
+    },
+    { "idDistrict": "491", "idCommune": "20209", "name": "Phường Xuân Hà" },
+    { "idDistrict": "491", "idCommune": "20212", "name": "Phường Tân Chính" },
+    { "idDistrict": "491", "idCommune": "20215", "name": "Phường Chính Gián" },
+    { "idDistrict": "491", "idCommune": "20218", "name": "Phường Vĩnh Trung" },
+    { "idDistrict": "491", "idCommune": "20221", "name": "Phường Thạc Gián" },
+    { "idDistrict": "491", "idCommune": "20224", "name": "Phường An Khê" },
+    { "idDistrict": "491", "idCommune": "20225", "name": "Phường Hòa Khê" },
+    { "idDistrict": "492", "idCommune": "20227", "name": "Phường Thanh Bình" },
+    { "idDistrict": "492", "idCommune": "20230", "name": "Phường Thuận Phước" },
+    { "idDistrict": "492", "idCommune": "20233", "name": "Phường Thạch Thang" },
+    { "idDistrict": "492", "idCommune": "20236", "name": "Phường Hải Châu  I" },
+    { "idDistrict": "492", "idCommune": "20239", "name": "Phường Hải Châu II" },
+    { "idDistrict": "492", "idCommune": "20242", "name": "Phường Phước Ninh" },
+    {
+      "idDistrict": "492",
+      "idCommune": "20245",
+      "name": "Phường Hòa Thuận Tây"
+    },
+    {
+      "idDistrict": "492",
+      "idCommune": "20246",
+      "name": "Phường Hòa Thuận Đông"
+    },
+    { "idDistrict": "492", "idCommune": "20248", "name": "Phường Nam Dương" },
+    { "idDistrict": "492", "idCommune": "20251", "name": "Phường Bình Hiên" },
+    { "idDistrict": "492", "idCommune": "20254", "name": "Phường Bình Thuận" },
+    {
+      "idDistrict": "492",
+      "idCommune": "20257",
+      "name": "Phường Hòa Cường Bắc"
+    },
+    {
+      "idDistrict": "492",
+      "idCommune": "20258",
+      "name": "Phường Hòa Cường Nam"
+    },
+    { "idDistrict": "493", "idCommune": "20263", "name": "Phường Thọ Quang" },
+    {
+      "idDistrict": "493",
+      "idCommune": "20266",
+      "name": "Phường Nại Hiên Đông"
+    },
+    { "idDistrict": "493", "idCommune": "20269", "name": "Phường Mân Thái" },
+    { "idDistrict": "493", "idCommune": "20272", "name": "Phường An Hải Bắc" },
+    { "idDistrict": "493", "idCommune": "20275", "name": "Phường Phước Mỹ" },
+    { "idDistrict": "493", "idCommune": "20278", "name": "Phường An Hải Tây" },
+    { "idDistrict": "493", "idCommune": "20281", "name": "Phường An Hải Đông" },
+    { "idDistrict": "494", "idCommune": "20284", "name": "Phường Mỹ An" },
+    { "idDistrict": "494", "idCommune": "20285", "name": "Phường Khuê Mỹ" },
+    { "idDistrict": "494", "idCommune": "20287", "name": "Phường Hoà Quý" },
+    { "idDistrict": "494", "idCommune": "20290", "name": "Phường Hoà Hải" },
+    { "idDistrict": "495", "idCommune": "20260", "name": "Phường Khuê Trung" },
+    { "idDistrict": "495", "idCommune": "20305", "name": "Phường Hòa Phát" },
+    { "idDistrict": "495", "idCommune": "20306", "name": "Phường Hòa An" },
+    { "idDistrict": "495", "idCommune": "20311", "name": "Phường Hòa Thọ Tây" },
+    {
+      "idDistrict": "495",
+      "idCommune": "20312",
+      "name": "Phường Hòa Thọ Đông"
+    },
+    { "idDistrict": "495", "idCommune": "20314", "name": "Phường Hòa Xuân" },
+    { "idDistrict": "497", "idCommune": "20293", "name": "Xã Hòa Bắc" },
+    { "idDistrict": "497", "idCommune": "20296", "name": "Xã Hòa Liên" },
+    { "idDistrict": "497", "idCommune": "20299", "name": "Xã Hòa Ninh" },
+    { "idDistrict": "497", "idCommune": "20302", "name": "Xã Hòa Sơn" },
+    { "idDistrict": "497", "idCommune": "20308", "name": "Xã Hòa Nhơn" },
+    { "idDistrict": "497", "idCommune": "20317", "name": "Xã Hòa Phú" },
+    { "idDistrict": "497", "idCommune": "20320", "name": "Xã Hòa Phong" },
+    { "idDistrict": "497", "idCommune": "20323", "name": "Xã Hòa Châu" },
+    { "idDistrict": "497", "idCommune": "20326", "name": "Xã Hòa Tiến" },
+    { "idDistrict": "497", "idCommune": "20329", "name": "Xã Hòa Phước" },
+    { "idDistrict": "497", "idCommune": "20332", "name": "Xã Hòa Khương" }
+  ]
+}

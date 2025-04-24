@@ -1,0 +1,4 @@
+enum Enumrole {
+  CUSTOMER,
+  ADMIN
+}
