@@ -178,7 +178,7 @@ class Signupscreen extends GetView<Controllersignup> {
                                 ],
                               ),
                               SizedBox(
-                                height: 80.h,
+                                height: 10.h,
                               ),
                               Row(
                                 mainAxisAlignment: MainAxisAlignment.center,
