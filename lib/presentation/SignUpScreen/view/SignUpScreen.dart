@@ -114,6 +114,7 @@ class Signupscreen extends GetView<Controllersignup> {
                                   ),
                                   TextField(
                                     controller: controller.pass1,
+                                    obscureText: true,
                                     decoration: const InputDecoration(
                                         hintText: "Password"),
                                   )

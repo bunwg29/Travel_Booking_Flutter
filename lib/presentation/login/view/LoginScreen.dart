@@ -88,6 +88,7 @@ class Loginscreen extends GetView<Controllerlogin> {
                                 ),
                                 TextField(
                                   controller: controller.password,
+                                  obscureText: true,
                                   decoration: const InputDecoration(
                                       hintText: "Password"),
                                 )
