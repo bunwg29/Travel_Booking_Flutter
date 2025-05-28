@@ -62,7 +62,7 @@ class Userdetailbookedscreen extends GetView<Controlleruserdetailbooked> {
               ),
               const Spacer(),
               SizedBox(
-                height: 50.h,
+                height: 40.h,
                 width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () => controller.clickAddRate(context),
